@@ -23,5 +23,5 @@ social: true  # includes social icons at the bottom of the page
 
 My long-term vision is to develop **dynamic reinforcement learning mechanisms for multimodal foundation models**, emphasizing **genuine exploration** and continual capability growth toward Artificial General Intelligence(AGI).
 
-😊 I am always eager to collaborate, explore ideas, and push the boundaries toward artificial general intelligence together.
+😊 I am always eager to collaborate, explore ideas, and push the boundaries toward AGI together.
 Please feel free to reach out!
