@@ -19,10 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🐚 Hi there! Welcome to Kelper Young(杨昌澎)'s Page. I'm currently pursuing graduate studies at [Peking University(PKU)](https://english.pku.edu.cn/)'s Cell Mechanics Lab, supervised by [Prof. Chunyang Xiong(熊春阳)](https://scholar.google.com/citations?user=TFxaXggAAAAJ). My research is dedicated to the deep learning of multi-modal biomedical data analysis, encompassing both imagery and multiomics.
+🐚 Hi there! I am currently a researcher at the **HyperAI Team, Xiaomi**, where my research focuses on **GUI Agents**, **multimodal reasoning**, and **reinforcement learning**.  Before that, I received my M.S. degree from Peking University (PKU) and my B.S. degree from the University of Shanghai for Science and Technology (USST).
 
-<!-- I got my bachelor degree from the [University of Shanghai for Science and Technology(USST)](https://en.usst.edu.cn/), majored in Information Management and Information System, supervised by [Asst. Prof. Baizhou Shi(施柏州)](https://www.iem.yuntech.edu.tw/faculties1.php?ename=pcshih). His enlightening guidance ignited my passion for artificial intelligence. -->
+My long-term vision is to explore **dynamic reinforcement learning mechanisms for multimodal foundation models**, with a particular focus on **meaningful exploration of reinforcement learning**, enabling continual capability growth and contributing to the realization of **general intelligence**.
 
-Now I'm looking for a Ph.D. position in 2024 to further my research ambitions, focusing on deep learning and multi-modal analysis in biomedical science. Please feel free to contact me if interested.
-
-<!-- And I have a strong interest in developing an LLM-Agent integrating the above tools for biomedical research. -->
+😊 I am always eager to collaborate, exchange ideas, and push the boundaries toward artificial general intelligence together.
+Feel free to reach out if you are interested in collaboration or discussion.
