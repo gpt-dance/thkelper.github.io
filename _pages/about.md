@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🐚 Hi there! I'm **Changpeng Yang(杨昌澎)** currently a researcher at the **HyperAI Team, Xiaomi**, where my research focuses on **GUI Agents**, **multimodal reasoning**, and **reinforcement learning**.  Before that, I received my M.S. degree from Peking University (PKU) and my B.S. degree from the University of Shanghai for Science and Technology (USST).
+🐚 Hi there! I’m **Changpeng Yang (杨昌澎)**, a researcher at HyperAI Team, Xiaomi, working on **multimodal reasoning**, **reinforcement learning**, and **GUI Agents**. I received my M.S. from Peking University (PKU) and B.S. from the University of Shanghai for Science and Technology (USST).
 
-My long-term vision is to explore **dynamic reinforcement learning mechanisms for multimodal foundation models**, with a particular focus on **meaningful exploration of reinforcement learning**, enabling continual capability growth and contributing to the realization of **general intelligence**.
+My long-term vision is to develop **dynamic reinforcement learning mechanisms for multimodal foundation models**, emphasizing **genuine exploration** and continual capability growth toward Artificial General Intelligence(AGI).
 
-😊 I am always eager to collaborate, exchange ideas, and push the boundaries toward artificial general intelligence together.
-Feel free to reach out if you are interested in collaboration or discussion.
+😊 I am always eager to collaborate, explore ideas, and push the boundaries toward artificial general intelligence together.
+Please feel free to reach out!
