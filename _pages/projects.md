@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: My precious research and volunteer projects. 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Research, Volunteer]
 horizontal: false
